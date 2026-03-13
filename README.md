@@ -27,12 +27,12 @@ Web Development student at Humber College with a strong foundation in front-end 
 ### Web Development Projects
 - **Hospital Bed Availability & Tracking System**  
   [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/HBATS)  
-  **Tech:** Node.js, Express, MongoDB, HTML, CSS  
+  **Tech:**  HTML, CSS, JS
   *Full-stack web app to monitor hospital bed availability in real time.*
 
 - **Library Management System**  
   [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/library_project_mangement)  
-  **Tech:** ASP.NET, C#  
+  **Tech:** ASP.NET, C# 
   *CRUD app for managing library members, books, and borrow records.*
 
 - **ChoreSwap App**  
@@ -79,4 +79,4 @@ Web Development student at Humber College with a strong foundation in front-end 
 
 ## Let's Connect!
 I'm always open to collaborating on projects, learning new things, or just chatting about tech. Feel free to reach out:
-LinkdIn: www.linkedin.com/in/jaspreet-kaur-a3a74a1b1
+Email: jasspreethind@gmail.com
