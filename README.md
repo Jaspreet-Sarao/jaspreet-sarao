@@ -40,11 +40,6 @@ Web Development student at Humber College with a strong foundation in front-end 
   **Tech:** HTML, CSS, JavaScript  
   *Interactive web app to manage and share household chores.*
 
-- **Memory Card Game (Sunrise/Sunset)**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
-  **Tech:** HTML, CSS, JavaScript  
-  *Front-end game with sunrise/sunset animation.*  
-
 - **Personal Portfolio**  
   [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/basic-portfolio)  
   **Tech:** HTML, CSS  
