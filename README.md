@@ -26,61 +26,53 @@ Web Development student at Humber College with a strong foundation in front-end 
 
 ### Web Development Projects
 - **Hospital Bed Availability & Tracking System**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/HBATS)  
   **Tech:** Node.js, Express, MongoDB, HTML, CSS  
   *Full-stack web app to monitor hospital bed availability in real time.*
 
 - **Library Management System**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/library_project_mangement)  
   **Tech:** ASP.NET, C#  
   *CRUD app for managing library members, books, and borrow records.*
 
 - **ChoreSwap App**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/ChoreSwap-App)  
   **Tech:** HTML, CSS, JavaScript  
   *Interactive web app to manage and share household chores.*
 
-- **Memory Card Game**  
+- **Memory Card Game (Sunrise/Sunset)**  
   [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
   **Tech:** HTML, CSS, JavaScript  
-  *Front-end game with sunrise/sunset animation.*
+  *Front-end game with sunrise/sunset animation.*  
 
 - **Personal Portfolio**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/basic-portfolio)  
   **Tech:** HTML, CSS  
   *Responsive portfolio website showcasing projects and skills.*
 
 ### Vibe Coding Projects
 - **Interview Flashcards**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/Interview-Flashcards)  
   **Tech:** HTML, CSS, JavaScript  
-  *Tool for practicing front-end interview questions.*
+  *Tool for practicing front-end interview questions efficiently.*
 
 - **2D Browser Game**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/2dGame-)  
   **Tech:** JavaScript, HTML, CSS  
   *Interactive 2D game for learning coding logic.*
 
 - **Jumping Cursor Game**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/jumping-cursor)  
   **Tech:** JavaScript, HTML, CSS  
   *Fun animation game demonstrating advanced JS skills.*
 
 ### Assignments
 - **Weather API Project**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jaspreet-Sarao/weather-API)  
   **Tech:** JavaScript, HTML, CSS  
   *Live city weather dashboard using API.*
 
-- **Memory Card Game Sunrise/Sunset Animation**  
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
-  **Tech:** JavaScript, CSS, HTML  
-  *Assignment demonstrating front-end animation skills.*
-
+---
 > *All project repositories include detailed READMEs, installation instructions, and live demo links (where applicable).*
 
 ---
