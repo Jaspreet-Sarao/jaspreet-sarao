@@ -25,19 +25,61 @@ Web Development student at Humber College with a strong foundation in front-end 
 ## 🔹 Selected Projects
 
 ### Web Development Projects
-- **[Hospital Bed Availability & Tracking System](#)** – Full-stack web app to monitor hospital bed availability in real time. *( HTML, CSS, JS)*  
-- **[Library Management System](#)** – ASP.NET CRUD application for managing library members, books, and borrow records.  
-- **[ChoreSwap App](#)** – Interactive web app to manage and share household chores. *(HTML, CSS, JavaScript)*  
+- **Hospital Bed Availability & Tracking System**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
+  **Tech:** Node.js, Express, MongoDB, HTML, CSS  
+  *Full-stack web app to monitor hospital bed availability in real time.*
+
+- **Library Management System**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  **Tech:** ASP.NET, C#  
+  *CRUD app for managing library members, books, and borrow records.*
+
+- **ChoreSwap App**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
+  **Tech:** HTML, CSS, JavaScript  
+  *Interactive web app to manage and share household chores.*
+
+- **Memory Card Game**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
+  **Tech:** HTML, CSS, JavaScript  
+  *Front-end game with sunrise/sunset animation.*
+
+- **Personal Portfolio**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](#)  
+  **Tech:** HTML, CSS  
+  *Responsive portfolio website showcasing projects and skills.*
 
 ### Vibe Coding Projects
-- **[Interview Flashcards](#)** – Tool for practicing front-end interview questions efficiently.  
-- **[2D Game](#)** – Simple 2D interactive game built with JavaScript.  
-- **[Jumping Cursor Game](#)** – Fun interactive game with advanced JS animations.  
+- **Interview Flashcards**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  **Tech:** HTML, CSS, JavaScript  
+  *Tool for practicing front-end interview questions.*
+
+- **2D Browser Game**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  **Tech:** JavaScript, HTML, CSS  
+  *Interactive 2D game for learning coding logic.*
+
+- **Jumping Cursor Game**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  **Tech:** JavaScript, HTML, CSS  
+  *Fun animation game demonstrating advanced JS skills.*
 
 ### Assignments
-- **[Weather API Project](#)** – Live city weather dashboard using external API.    
-- **[Memory Card Game](#)** – Front-end animation game with sunrise/sunset theme.  
-- **[Personal Portfolio](#)** – Responsive portfolio website using HTML & CSS. 
+- **Weather API Project**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  **Tech:** JavaScript, HTML, CSS  
+  *Live city weather dashboard using API.*
+
+- **Memory Card Game Sunrise/Sunset Animation**  
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](#)  
+  **Tech:** JavaScript, CSS, HTML  
+  *Assignment demonstrating front-end animation skills.*
 
 > *All project repositories include detailed READMEs, installation instructions, and live demo links (where applicable).*
 
