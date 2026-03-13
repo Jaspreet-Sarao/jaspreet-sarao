@@ -1,5 +1,5 @@
 ## Hi there, I'm Jaspreet Kaur!  👋
-Web Development student at Humber College with a strong foundation in front-end and full-stack development. Experienced in building interactive web applications, managing databases.
+Web Developer with hands-on experience in building interactive front-end and full-stack applications. Skilled in creating web apps, games, and tools that simplify tasks and enhance user experiences.
 
 ---
 ## 🔹 Skills
@@ -75,3 +75,4 @@ Web Development student at Humber College with a strong foundation in front-end 
 ## Let's Connect!
 I'm always open to collaborating on projects, learning new things, or just chatting about tech. Feel free to reach out:
 Email: jasspreethind@gmail.com
+
