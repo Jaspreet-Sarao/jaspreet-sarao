@@ -75,5 +75,5 @@ Web Developer with hands-on experience in building interactive front-end and ful
 ## Let's Connect!
 I'm always open to collaborating on projects, learning new things, or just chatting about tech. Feel free to reach out:
 Email: jasspreethind@gmail.com
-Linkedin: linkedin.com/in/jaspreet-kaur-a3a74a1b1
+LinkedIn: https://www.linkedin.com/in/jaspreet-kaur-a3a74a1b1/
 
